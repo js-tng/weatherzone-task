@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Select /> renders Select component 1`] = `
+<select
+  className="sc-bdfBwQ llyimA"
+  defaultValue="default"
+  id="test-id"
+  name="test-name"
+  onChange={[MockFunction]}
+>
+  <option
+    disabled={true}
+    value="default"
+  >
+    Please select an option
+  </option>
+  <option
+    value="value-1"
+  >
+    label 1
+  </option>
+  <option
+    value="value-2"
+  >
+    label 2
+  </option>
+</select>
+`;

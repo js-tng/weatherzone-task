@@ -1,0 +1,556 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Toggle /> renders Toggle component 1`] = `
+<div
+  className="sc-bdfBwQ fVtFhE"
+  id="test-id"
+  name="test-name"
+>
+  <span
+    className="sc-gsTCUz hgTJtX"
+  >
+    left label
+  </span>
+  <div
+    style={
+      Object {
+        "MozTransition": "opacity 0.25s",
+        "MozUserSelect": "none",
+        "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+        "WebkitTransition": "opacity 0.25s",
+        "WebkitUserSelect": "none",
+        "borderRadius": 10,
+        "direction": "ltr",
+        "display": "inline-block",
+        "msUserSelect": "none",
+        "opacity": 1,
+        "position": "relative",
+        "textAlign": "left",
+        "touchAction": "none",
+        "transition": "opacity 0.25s",
+        "userSelect": "none",
+      }
+    }
+  >
+    <div
+      className="react-switch-bg"
+      onClick={[Function]}
+      onMouseDown={[Function]}
+      style={
+        Object {
+          "MozTransition": "background 0.25s",
+          "WebkitTransition": "background 0.25s",
+          "background": "#888888",
+          "borderRadius": 10,
+          "cursor": "pointer",
+          "height": 20,
+          "margin": 5,
+          "position": "relative",
+          "transition": "background 0.25s",
+          "width": 48,
+        }
+      }
+    />
+    <div
+      className="react-switch-handle"
+      onClick={[Function]}
+      onMouseDown={[Function]}
+      onTouchCancel={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      style={
+        Object {
+          "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+          "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+          "background": "#ffffff",
+          "border": 0,
+          "borderRadius": "50%",
+          "boxShadow": "0px 1px 5px rgba(0, 0, 0, 0.6)",
+          "cursor": "pointer",
+          "display": "inline-block",
+          "height": 30,
+          "outline": 0,
+          "position": "absolute",
+          "top": 0,
+          "transform": "translateX(0px)",
+          "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+          "width": 30,
+        }
+      }
+    />
+    <input
+      aria-checked={false}
+      checked={false}
+      disabled={false}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      onKeyUp={[Function]}
+      role="switch"
+      style={
+        Object {
+          "border": 0,
+          "clip": "rect(0 0 0 0)",
+          "height": 1,
+          "margin": -1,
+          "overflow": "hidden",
+          "padding": 0,
+          "position": "absolute",
+          "width": 1,
+        }
+      }
+      type="checkbox"
+    />
+  </div>
+  <span
+    className="sc-gsTCUz hgTJtX"
+  >
+    right label
+  </span>
+</div>
+`;
+
+exports[`<Toggle /> renders Toggle component when not  1`] = `
+<div
+  className="sc-bdfBwQ fVtFhE"
+  id="test-id"
+  name="test-name"
+>
+  <span
+    className="sc-gsTCUz hgTJtX"
+  >
+    left label
+  </span>
+  <div
+    style={
+      Object {
+        "MozTransition": "opacity 0.25s",
+        "MozUserSelect": "none",
+        "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+        "WebkitTransition": "opacity 0.25s",
+        "WebkitUserSelect": "none",
+        "borderRadius": 10,
+        "direction": "ltr",
+        "display": "inline-block",
+        "msUserSelect": "none",
+        "opacity": 1,
+        "position": "relative",
+        "textAlign": "left",
+        "touchAction": "none",
+        "transition": "opacity 0.25s",
+        "userSelect": "none",
+      }
+    }
+  >
+    <div
+      className="react-switch-bg"
+      onClick={[Function]}
+      onMouseDown={[Function]}
+      style={
+        Object {
+          "MozTransition": "background 0.25s",
+          "WebkitTransition": "background 0.25s",
+          "background": "#888888",
+          "borderRadius": 10,
+          "cursor": "pointer",
+          "height": 20,
+          "margin": 5,
+          "position": "relative",
+          "transition": "background 0.25s",
+          "width": 48,
+        }
+      }
+    />
+    <div
+      className="react-switch-handle"
+      onClick={[Function]}
+      onMouseDown={[Function]}
+      onTouchCancel={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      style={
+        Object {
+          "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+          "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+          "background": "#ffffff",
+          "border": 0,
+          "borderRadius": "50%",
+          "boxShadow": "0px 1px 5px rgba(0, 0, 0, 0.6)",
+          "cursor": "pointer",
+          "display": "inline-block",
+          "height": 30,
+          "outline": 0,
+          "position": "absolute",
+          "top": 0,
+          "transform": "translateX(0px)",
+          "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+          "width": 30,
+        }
+      }
+    />
+    <input
+      aria-checked={false}
+      checked={false}
+      disabled={false}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      onKeyUp={[Function]}
+      role="switch"
+      style={
+        Object {
+          "border": 0,
+          "clip": "rect(0 0 0 0)",
+          "height": 1,
+          "margin": -1,
+          "overflow": "hidden",
+          "padding": 0,
+          "position": "absolute",
+          "width": 1,
+        }
+      }
+      type="checkbox"
+    />
+  </div>
+  <span
+    className="sc-gsTCUz hgTJtX"
+  >
+    right label
+  </span>
+</div>
+`;
+
+exports[`<Toggle /> renders Toggle component when not toggled 1`] = `
+<div
+  className="sc-bdfBwQ fVtFhE"
+  id="test-id"
+  name="test-name"
+>
+  <span
+    className="sc-gsTCUz hgTJtX"
+  >
+    left label
+  </span>
+  <div
+    style={
+      Object {
+        "MozTransition": "opacity 0.25s",
+        "MozUserSelect": "none",
+        "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+        "WebkitTransition": "opacity 0.25s",
+        "WebkitUserSelect": "none",
+        "borderRadius": 10,
+        "direction": "ltr",
+        "display": "inline-block",
+        "msUserSelect": "none",
+        "opacity": 1,
+        "position": "relative",
+        "textAlign": "left",
+        "touchAction": "none",
+        "transition": "opacity 0.25s",
+        "userSelect": "none",
+      }
+    }
+  >
+    <div
+      className="react-switch-bg"
+      onClick={[Function]}
+      onMouseDown={[Function]}
+      style={
+        Object {
+          "MozTransition": "background 0.25s",
+          "WebkitTransition": "background 0.25s",
+          "background": "#888888",
+          "borderRadius": 10,
+          "cursor": "pointer",
+          "height": 20,
+          "margin": 5,
+          "position": "relative",
+          "transition": "background 0.25s",
+          "width": 48,
+        }
+      }
+    />
+    <div
+      className="react-switch-handle"
+      onClick={[Function]}
+      onMouseDown={[Function]}
+      onTouchCancel={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      style={
+        Object {
+          "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+          "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+          "background": "#ffffff",
+          "border": 0,
+          "borderRadius": "50%",
+          "boxShadow": "0px 1px 5px rgba(0, 0, 0, 0.6)",
+          "cursor": "pointer",
+          "display": "inline-block",
+          "height": 30,
+          "outline": 0,
+          "position": "absolute",
+          "top": 0,
+          "transform": "translateX(0px)",
+          "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+          "width": 30,
+        }
+      }
+    />
+    <input
+      aria-checked={false}
+      checked={false}
+      disabled={false}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      onKeyUp={[Function]}
+      role="switch"
+      style={
+        Object {
+          "border": 0,
+          "clip": "rect(0 0 0 0)",
+          "height": 1,
+          "margin": -1,
+          "overflow": "hidden",
+          "padding": 0,
+          "position": "absolute",
+          "width": 1,
+        }
+      }
+      type="checkbox"
+    />
+  </div>
+  <span
+    className="sc-gsTCUz hgTJtX"
+  >
+    right label
+  </span>
+</div>
+`;
+
+exports[`<Toggle /> renders Toggle component when not toggled 2`] = `
+<div
+  className="sc-bdfBwQ fVtFhE"
+  id="test-id"
+  name="test-name"
+>
+  <span
+    className="sc-gsTCUz hgTJtX"
+  >
+    left label
+  </span>
+  <div
+    style={
+      Object {
+        "MozTransition": "opacity 0.25s",
+        "MozUserSelect": "none",
+        "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+        "WebkitTransition": "opacity 0.25s",
+        "WebkitUserSelect": "none",
+        "borderRadius": 10,
+        "direction": "ltr",
+        "display": "inline-block",
+        "msUserSelect": "none",
+        "opacity": 1,
+        "position": "relative",
+        "textAlign": "left",
+        "touchAction": "none",
+        "transition": "opacity 0.25s",
+        "userSelect": "none",
+      }
+    }
+  >
+    <div
+      className="react-switch-bg"
+      onClick={[Function]}
+      onMouseDown={[Function]}
+      style={
+        Object {
+          "MozTransition": "background 0.25s",
+          "WebkitTransition": "background 0.25s",
+          "background": "#888888",
+          "borderRadius": 10,
+          "cursor": "pointer",
+          "height": 20,
+          "margin": 5,
+          "position": "relative",
+          "transition": "background 0.25s",
+          "width": 48,
+        }
+      }
+    />
+    <div
+      className="react-switch-handle"
+      onClick={[Function]}
+      onMouseDown={[Function]}
+      onTouchCancel={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      style={
+        Object {
+          "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+          "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+          "background": "#ffffff",
+          "border": 0,
+          "borderRadius": "50%",
+          "boxShadow": "0px 1px 5px rgba(0, 0, 0, 0.6)",
+          "cursor": "pointer",
+          "display": "inline-block",
+          "height": 30,
+          "outline": 0,
+          "position": "absolute",
+          "top": 0,
+          "transform": "translateX(0px)",
+          "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+          "width": 30,
+        }
+      }
+    />
+    <input
+      aria-checked={false}
+      checked={false}
+      disabled={false}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      onKeyUp={[Function]}
+      role="switch"
+      style={
+        Object {
+          "border": 0,
+          "clip": "rect(0 0 0 0)",
+          "height": 1,
+          "margin": -1,
+          "overflow": "hidden",
+          "padding": 0,
+          "position": "absolute",
+          "width": 1,
+        }
+      }
+      type="checkbox"
+    />
+  </div>
+  <span
+    className="sc-gsTCUz hgTJtX"
+  >
+    right label
+  </span>
+</div>
+`;
+
+exports[`<Toggle /> renders Toggle component when toggled on 1`] = `
+<div
+  className="sc-bdfBwQ fVtFhE"
+  id="test-id"
+  name="test-name"
+>
+  <span
+    className="sc-gsTCUz hgTJtX"
+  >
+    left label
+  </span>
+  <div
+    style={
+      Object {
+        "MozTransition": "opacity 0.25s",
+        "MozUserSelect": "none",
+        "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+        "WebkitTransition": "opacity 0.25s",
+        "WebkitUserSelect": "none",
+        "borderRadius": 10,
+        "direction": "ltr",
+        "display": "inline-block",
+        "msUserSelect": "none",
+        "opacity": 1,
+        "position": "relative",
+        "textAlign": "left",
+        "touchAction": "none",
+        "transition": "opacity 0.25s",
+        "userSelect": "none",
+      }
+    }
+  >
+    <div
+      className="react-switch-bg"
+      onClick={[Function]}
+      onMouseDown={[Function]}
+      style={
+        Object {
+          "MozTransition": "background 0.25s",
+          "WebkitTransition": "background 0.25s",
+          "background": "#86d3ff",
+          "borderRadius": 10,
+          "cursor": "pointer",
+          "height": 20,
+          "margin": 5,
+          "position": "relative",
+          "transition": "background 0.25s",
+          "width": 48,
+        }
+      }
+    />
+    <div
+      className="react-switch-handle"
+      onClick={[Function]}
+      onMouseDown={[Function]}
+      onTouchCancel={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      style={
+        Object {
+          "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+          "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+          "background": "#2693e6",
+          "border": 0,
+          "borderRadius": "50%",
+          "boxShadow": "0px 1px 5px rgba(0, 0, 0, 0.6)",
+          "cursor": "pointer",
+          "display": "inline-block",
+          "height": 30,
+          "outline": 0,
+          "position": "absolute",
+          "top": 0,
+          "transform": "translateX(28px)",
+          "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+          "width": 30,
+        }
+      }
+    />
+    <input
+      aria-checked={true}
+      checked={true}
+      disabled={false}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      onKeyUp={[Function]}
+      role="switch"
+      style={
+        Object {
+          "border": 0,
+          "clip": "rect(0 0 0 0)",
+          "height": 1,
+          "margin": -1,
+          "overflow": "hidden",
+          "padding": 0,
+          "position": "absolute",
+          "width": 1,
+        }
+      }
+      type="checkbox"
+    />
+  </div>
+  <span
+    className="sc-gsTCUz hgTJtX"
+  >
+    right label
+  </span>
+</div>
+`;
